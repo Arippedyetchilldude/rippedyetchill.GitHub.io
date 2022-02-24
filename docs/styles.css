@@ -1,0 +1,15 @@
+body {
+  background-color: floral white;
+}
+
+h1 {
+  background-color: powderblue; 
+  text-align:center;
+  border: 2px solid gold; 
+}
+
+p {
+  background-color: tomato; 
+  text-align:center;
+  border: 2px solid gold; 
+}

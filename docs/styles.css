@@ -1,15 +1,13 @@
 body {
-  background-color: floralwhite;
+  background-color: moccasin;
 }
 
 h1 {
-  background-color: powderblue; 
-  text-align:center;
-  border: 2px solid gold; 
+  background-color: gold; 
+  text-align:center; 
 }
 
 p {
-  background-color: tomato; 
-  text-align:center;
-  border: 2px solid gold; 
+  background-color: darkgoldenrod; 
+  text-align:center; 
 }

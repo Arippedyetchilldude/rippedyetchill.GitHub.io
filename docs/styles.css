@@ -43,4 +43,6 @@ h6 {
 p {
   background-color:darkgoldenrod; 
   text-align:center; 
+  padding: 25px;
+  margin: 25px;
 }

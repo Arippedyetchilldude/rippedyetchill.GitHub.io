@@ -3,10 +3,42 @@ body {
 }
 
 h1 {
-  background-color:gold; 
+  background: rgb(255,255,66);
+  background: radial-gradient(circle, rgba(255,255,66,1) 0%, rgba(253,187,45,1) 100%);
   text-align:center; 
   padding: 30px;
 }
+
+h2 {
+  background-color: #ffd700; 
+  text-align:center; 
+  padding: 25px;
+}
+
+h3 {
+  background-color: #ffdd1a; 
+  text-align:center; 
+  padding: 20px;
+}
+
+h4 {
+  background-color: #ffe033; 
+  text-align:center; 
+  padding: 15px;
+}
+
+h5 {
+  background-color: #ffe44d; 
+  text-align:center; 
+  padding: 15px;
+}
+
+h6 {
+  background-color: #ffe866; 
+  text-align:center; 
+  padding: 15px;
+}
+
 
 p {
   background-color:darkgoldenrod; 

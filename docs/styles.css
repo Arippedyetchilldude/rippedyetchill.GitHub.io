@@ -50,7 +50,6 @@ p {
 table.center {
   margin-left: auto;
   margin-right: auto;
-
 }
 
 th, td {
@@ -58,6 +57,7 @@ th, td {
   border-radius: 10px;
   background-color: #96D4D4;
   text-align: center
+  padding: 5px;
 }
 
 th:hover {background-color: #8EC9D6;}

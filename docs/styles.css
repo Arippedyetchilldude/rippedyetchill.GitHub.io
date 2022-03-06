@@ -52,14 +52,13 @@ table.center {
 }
 
 th, td {
-  width: 69px;
-  height: 69px;
+  style="width: 69px";
+  style="height: 69px";
   border: 1px solid moccasin;
   border-radius: 10px;
   background-color: #96D4D4;
-  text-align: center
+  text-align: center;
 }
 
 th:hover {background-color: #8EC9D6;}
 td:hover {background-color: #8EC9D6;}
-

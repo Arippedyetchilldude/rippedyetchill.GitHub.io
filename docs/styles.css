@@ -3,11 +3,9 @@ body {
 }
 
 h1 {
-  background: rgb(255,223,51);
   background: radial-gradient(circle, rgba(255,223,51,1) 0%, rgba(204,173,0,1) 100%);
   text-align: center; 
-  margin-block-start: 0em;
-  margin-block-end: 0em;
+  padding: 30px;
 }
 
 h2 {
@@ -54,8 +52,8 @@ table.center {
 }
 
 th, td {
-  width: 1/3;
-  height: 1/3;
+  width: 69px;
+  height: 69px;
   border: 1px solid moccasin;
   border-radius: 10px;
   background-color: #96D4D4;
